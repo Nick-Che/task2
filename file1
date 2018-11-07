@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+<title>Basic table</title>
+</title>
+</head>
+
+<body>
+<header>
+<h1>A Basic Table</h1>
+<h2>HTML Superheroes</h2>
+</header>
+<table border = "1" >
+
+<tr>
+<th><b>Hero</b></th>
+<th><b>Power</b></th>
+<th><b>Nemesis</b></th>
+</tr>
+
+<tr>
+<td>The XMLator</td>
+<td>Standards Compliance</td>
+<td>Sloppy Code Boy</td>
+</tr>
+
+<tr>
+<td>Captain CSS</td>
+<td>Superlayout</td>
+<td>Lord Deprecated</td> 
+</tr>
+
+<tr>
+<td>Broser Woman</td>
+<td>Megacompatibility</td>
+<td>Ugly Code Monster</td>
+</tr>   
+
+</table>
+</body>
+</html>
